@@ -4,6 +4,30 @@ https://www.youtube.com/watch?v=ulQA5tjJark
 
 https://github.com/academind/github-actions-course-resources.git
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git and Github Crash Course</title>
+    <link rel = "stylesheet" href = "styles.css"/>
+</head>
+<main>
+<body>
+    <img id = "logo src = "logo.png alt = "A logo that contains the word 'Git'" >
+    <h1>Git and Github Crash Course</h1>
+    <section></section>
+    <p>Because the basics are important !</p>
+    <p>
+    <p>Learn more about Git on <a href ="https://git-scm.com/book/en/v2" the official website.></a> </p>
+    <a href="https://acad.link/git">our course</a>
+    </p>
+    </section>
+</main>
+</body>     
+</html>
+
 What is Git ?
 Version Control System 
 Manage Source Control Changes 
