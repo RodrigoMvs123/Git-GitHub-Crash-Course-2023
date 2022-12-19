@@ -28,6 +28,8 @@ https://github.com/academind/github-actions-course-resources.git
 </body>     
 </html>
 
+https://raw.githubusercontent.com/RodrigoMvs123/Git-GitHub-Crash-Course-2023/main/README.md
+
 What is Git ?
 Version Control System 
 Manage Source Control Changes 
